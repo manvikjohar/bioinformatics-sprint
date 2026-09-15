@@ -1,2 +1,4 @@
 # bioinformatics-sprint
-Collection of bioinformatics projects for practice purposes.
+
+7-day sprint building bioinformatics scripts and running Rosalind problems, working toward a lab/internship application.
+
